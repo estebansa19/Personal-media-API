@@ -1,0 +1,2 @@
+class ProductionKind < ApplicationRecord
+end
